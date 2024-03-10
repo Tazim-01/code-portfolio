@@ -27,7 +27,7 @@ const Hero = () => {
                 CONSULTANT EYE SERGEON
               </p>
               <h2 className="md:text-7xl text-5xl pl-5 md:pl-0 font-bold text-white">
-                Hi, I’m <span className="text-designColor">William Lina</span>
+                Hi, I’m <span className="text-designColor">Tazim</span>
               </h2>
               <h2 className="md:text-4xl text-3xl font-bold text-white pl-5 md:pl-0">
                 a{" "}
