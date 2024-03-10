@@ -71,7 +71,7 @@ const ContactMe = () => {
               <div className=" rounded-lg group">
                 <div className="overflow-hidden rounded-lg">
                   <img
-                    src="public/contact1.png"
+                    src="/contact1.png"
                     className=" group-hover:scale-110 duration-500 rounded-md"
                   />
                 </div>
