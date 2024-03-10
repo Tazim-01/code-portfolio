@@ -16,8 +16,8 @@ export default {
       },
       
       backgroundImage: {
-        'hero-image': "url('./banner.jpg')",
-        'about-image': "url('./banner2.jpg')",
+        'hero-image': "url('../src/public/banner.jpg')",
+
       }
     },
   },
