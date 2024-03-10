@@ -20,8 +20,9 @@ const Hero = () => {
     <section name="hero">
       <div className=" h-full">
         <img className="md:hidden h-[300px] w-full " src="bannerC.jpg" />
-        <div className="w-full h-[400px] bg-[#212428] md:h-[700px] md:bg-hero-image bg-cover z-40">
-          <Container className="md:py-20 py-10">
+        <div className="w-full h-[400px] bg-[#212428] md:h-[700px] bg-cover z-40 ">
+         <img className="hidden md:inline-flex w-full max-h-screen" src="banner.jpg"/>
+          <Container className="md:py-20 py-10 md:absolute md:top-1 md:m-10">
             <div className="md:w-1/2 flex flex-col gap-y-5 w-full">
               <p className="md:text-base md:text-start uppercase -mt-2 text-lightText pl-5 md:pl-0">
                 CONSULTANT EYE SERGEON
